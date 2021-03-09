@@ -1,0 +1,56 @@
+/*
+To do list :
+1. Change the color to the header & the background of the web-page
+2. h1 in the center of the header 
+3. Remove the decoration of the list
+4. Horizantal list 
+5. Scale the image 
+6. Change the style of the paragraphs
+*/
+
+header{
+    color:green;
+}
+
+body{
+    background-color: lightcyan ;
+}
+
+
+h1{
+    text-align: center;
+}
+ 
+header nav ul{
+    list-style: none;
+}
+
+header nav ul li{
+    display: inline;
+}
+
+a{
+    text-decoration: none;
+    background-color: white;
+    color: black;
+    border: 2px solid green;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    
+
+}
+
+img{
+    width: 40%;
+    margin: 30px;
+}
+
+#o {
+    color: orange
+}
+
+#r{
+    color:red
+}
